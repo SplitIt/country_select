@@ -1,3 +1,5 @@
+> This repository is an unmaitained fork of the original country select in order to support 3-letter country codes. This can now be achieved using later versions of the country select gem, so you should probably use that instead.
+
 # Rails – Country Select
 
 Provides a simple helper to get an HTML select list of countries with
